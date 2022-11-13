@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Recorder PL</string>
 
+    <string name="start_record">Начать запись</string>
+    <string name="stop_record">Закончить запись</string>
 
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -13,4 +15,5 @@
     <string name="menu_home">Запись</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_record">Запись</string>
 </resources>

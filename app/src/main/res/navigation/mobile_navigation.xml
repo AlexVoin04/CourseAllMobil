@@ -22,4 +22,11 @@
         android:name="com.example.courseallmobil.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <activity
+        android:id="@+id/nav_record"
+        android:name="com.example.courseallmobil.Record"
+        android:label="@string/menu_record"
+        tools:layout="@layout/activity_record" />
+
 </navigation>
